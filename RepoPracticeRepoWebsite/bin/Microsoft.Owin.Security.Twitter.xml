@@ -89,7 +89,7 @@
         </member>
         <member name="M:Microsoft.Owin.Security.Twitter.ITwitterAuthenticationProvider.Authenticated(Microsoft.Owin.Security.Twitter.TwitterAuthenticatedContext)">
             <summary>
-            Invoked whenever Twitter succesfully authenticates a user
+            Invoked whenever Twitter successfully authenticates a user
             </summary>
             <param name="context">Contains information about the login session as well as the user <see cref="T:System.Security.Claims.ClaimsIdentity"/>.</param>
             <returns>A <see cref="T:System.Threading.Tasks.Task"/> representing the completed operation.</returns>
@@ -188,7 +188,7 @@
         </member>
         <member name="M:Microsoft.Owin.Security.Twitter.TwitterAuthenticationProvider.Authenticated(Microsoft.Owin.Security.Twitter.TwitterAuthenticatedContext)">
             <summary>
-            Invoked whenever Twitter succesfully authenticates a user
+            Invoked whenever Twitter successfully authenticates a user
             </summary>
             <param name="context">Contains information about the login session as well as the user <see cref="T:System.Security.Claims.ClaimsIdentity"/>.</param>
             <returns>A <see cref="T:System.Threading.Tasks.Task"/> representing the completed operation.</returns>
