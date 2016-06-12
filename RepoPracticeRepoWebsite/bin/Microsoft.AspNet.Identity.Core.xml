@@ -1783,7 +1783,7 @@
         </member>
         <member name="P:Microsoft.AspNet.Identity.Resources.DefaultError">
             <summary>
-              Looks up a localized string similar to An unknown failure has occured..
+              Looks up a localized string similar to An unknown failure has occurred..
             </summary>
         </member>
         <member name="P:Microsoft.AspNet.Identity.Resources.DuplicateEmail">
